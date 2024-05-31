@@ -1,0 +1,136 @@
+body{
+    background-color: black;
+    padding: 0px;
+}
+
+
+.navbar{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    align-items: center;
+    padding-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding-right: 30px;
+}
+
+.anjalibar{
+    background-color: darkgray;
+    padding: 2px;
+}
+
+.anjalibar h3{
+    font-weight: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+}
+
+.harsh h1{
+    color: white;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 30px;
+}
+
+.harsh h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.harsh button{
+    background-color: blue;
+    border-radius: 40px;
+    height: 50px;
+    width: 140px;
+    color: white;
+    border-color: blue;
+    font-size: 17px;
+    font-weight: 20px;
+}
+
+.harsh{
+    text-align: center;
+}
+
+.harsh2{
+    text-align: center;
+}
+
+.harsh3{
+    background-color: white;
+}
+
+.harsh3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: 20px;
+}
+
+.harsh3 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.harsh3 button{
+    background-color: blue;
+    border-radius: 40px;
+    height: 50px;
+    width: 140px;
+    color: white;
+    border-color: blue;
+    font-size: 17px;
+    font-weight: 20px;
+}
+
+.harsh3{
+    text-align: center;
+}
+
+
+.harsh4{
+    background-color: black;
+}
+
+.harsh4 h1{
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: 20px;
+    color: white;
+}
+
+.harsh4 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: normal;
+    color: white; 
+}
+
+.harsh4 button{
+    background-color: blue;
+    border-radius: 40px;
+    height: 50px;
+    width: 140px;
+    color: white;
+    border-color: blue;
+    font-size: 17px;
+    font-weight: 20px;   
+}
+
+.harsh4{
+    text-align: center;
+    gap: 10px;
+}
+
